@@ -4,6 +4,8 @@
 
 A healthcare application that helps users analyze medications, track medical conditions, and receive personalized medication advice using AI-powered analysis.
 
+![Cliniq Care landing page](docs/home.png)
+
 ## Overview
 
 Cliniq Care enables users to scan medication labels, analyze drug interactions, and receive tailored recommendations based on their medical profile. The platform uses Azure OpenAI and LangChain to provide intelligent medication analysis.
