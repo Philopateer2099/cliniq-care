@@ -1,5 +1,7 @@
 # Cliniq Care
 
+**2nd Place — HackMT 2026**
+
 A healthcare application that helps users analyze medications, track medical conditions, and receive personalized medication advice using AI-powered analysis.
 
 ## Overview
@@ -278,10 +280,6 @@ The application is deployed on Vercel. Environment variables should be configure
 2. Make your changes
 3. Ensure build passes: `bun run build`
 4. Submit a pull request
-
-## License
-
-[Your License Here]
 
 ## Support
 
