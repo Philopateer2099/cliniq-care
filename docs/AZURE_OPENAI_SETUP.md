@@ -77,12 +77,12 @@ Here's what a complete, working configuration looks like:
 
 ```bash
 # Example - Replace with YOUR actual values
-AZURE_AI_API_KEY=abc123def456ghi789jkl012mno345pqr678stu
+AZURE_AI_API_KEY=<your-azure-ai-key>
 AZURE_AI_ENDPOINT=https://cliniq-openai.openai.azure.com
 AZURE_AI_DEPLOYMENT=gpt-4
 AZURE_AI_API_VERSION=2024-02-15-preview
 AZURE_AI_REGION=eastus
-AZURE_AI_KEY=abc123def456ghi789jkl012mno345pqr678stu
+AZURE_AI_KEY=<your-azure-ai-key>
 ```
 
 ## ⚠️ Common Mistakes
